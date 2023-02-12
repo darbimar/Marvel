@@ -1,0 +1,20 @@
+.comicsbanner {
+    background-color: #232222;
+    height: 100px;
+    width: 1100px;
+    margin-top: 50px;
+    padding: 0 25px 0 45px;
+    display: grid;
+    grid-template-columns: 152px auto 133px;
+    &__title {
+        color: #fff;
+        font-family: Roboto Condensed;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 32px;
+        padding-left: 83px;
+        padding-top: 18px;
+
+
+    }
+}
